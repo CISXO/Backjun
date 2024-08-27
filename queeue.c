@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #define MAX 5
-
+//fdasfasf
 
 typedef struct Queue {
     int front; 
