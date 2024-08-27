@@ -1,7 +1,6 @@
-
 #include <stdio.h>
 int count=0;
-
+//s
 int mod3(int a) {
     a= a/3;
     count++;
